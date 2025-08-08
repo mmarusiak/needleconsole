@@ -1,6 +1,6 @@
 using Godot;
 
-namespace needleconsole.Scripts;
+namespace NeedleConsole;
 
 public partial class HelloWorld : Node
 {

@@ -98,3 +98,17 @@ http-client.private.env.json
 # Apifox Helper cache
 .idea/.cache/.Apifox_Helper
 .idea/ApifoxUploaderProjectSetting.xml
+
+# Default ignored files
+.idea/shelf/
+.idea/workspace.xml
+# Rider ignored files
+.idea/projectSettingsUpdater.xml
+.idea/.idea.needleconsole.iml
+.idea/modules.xml
+.idea/contentModel.xml
+# Editor-based HTTP Client requests
+.idea/httpRequests/
+# Datasource local storage ignored files
+.idea/dataSources/
+.idea/dataSources.local.xml
